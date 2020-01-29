@@ -8,7 +8,7 @@ The Observer Pattern defines a one-to-many dependency between objects so that wh
 changes state, all of its dependents are notified and updated automatically.
 When the state of one object changes, all of its dependents are notified.
 
-Weather Station
+# Weather Station
 
  ![alt text](weather-station.png)
  
@@ -24,7 +24,7 @@ updated data. The WeatherData object then updates its displays for the three dif
 display elements: Current Conditions (shows temperature, humidity, and pressure),
 Weather Statistics, and a simple forecast.
 
-Weather Station Output
+ # Weather Station Output
 
  ![alt text](output.png)
 
